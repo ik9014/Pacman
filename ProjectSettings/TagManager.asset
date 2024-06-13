@@ -3,15 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "\uCFE0\uD0A4"
+  - "\uBCBD"
+  - "\uB178\uB4DC"
+  - "\uC720\uB839"
+  - "\uC88C\uC6B0\uB178\uB4DC"
+  - "\uC6B0\uC88C\uB178\uB4DC"
+  - "\uC88C\uC6B0_\uC0C1\uB178\uB4DC"
+  - "\uBAA8\uC11C\uB9AC_\uC0C1\uC88C\uB178\uB4DC"
+  - "\uBAA8\uC11C\uB9AC_\uC0C1\uC6B0\uB178\uB4DC"
+  - "\uBAA8\uC11C\uB9AC_\uD558\uC88C\uB178\uB4DC"
+  - "\uBAA8\uC11C\uB9AC_\uD558\uC6B0\uB178\uB4DC"
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walllayer
   - Water
   - UI
-  - 
+  - Node
   - 
   - 
   - 
